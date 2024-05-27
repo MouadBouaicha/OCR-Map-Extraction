@@ -1,0 +1,2 @@
+ocr-nanonets-wrapper
+google-cloud-vision
